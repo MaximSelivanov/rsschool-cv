@@ -52,5 +52,15 @@ def konkurs(n, k, konk):
     for i in range(k, 0, -1):
         if konk[i] < konk[i - 1]:
             return konk[i - 1]
-print(konkurs(n, k, konk))
+print(konkurs(n, k, konk))### Work experience:
+
+### Education:
+
+Belarusian State Economic University
+
+### Languages:
+
+English A2 
+
+ 
 ``` 
