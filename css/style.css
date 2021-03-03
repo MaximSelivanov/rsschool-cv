@@ -1,0 +1,36 @@
+* {
+        margin-left: auto;
+        margin-right: auto;
+        width: 1000px;
+}
+
+IMG { 
+    height: auto;
+    width: auto;
+}
+
+body {
+    background-image: url(../img/background_new.jpg);
+    
+}
+footer {
+    background-color: white;
+}
+a {
+    text-decoration: none;
+    color: black;  
+}
+
+p, li {
+    font-size: 20px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+  }
+
+
+
+
+ 
